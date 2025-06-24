@@ -1,9 +1,9 @@
 # Data_Source_API_Analyst_ImprovadoTest_
-Homework assignment for Data Source API Analyst role.
+Homework assignment for Data Source API Analyst role at Improvado.
 
 ## Project Overview
 
-This project was completed as part of a Data Source API Analyst Homework for the company Improvado. Teh goal was to assess my understanding of APIs, my ability to work with data extraction requirements, and my troubleshooting approach.
+This project was completed as part of a technical assessment for Improvado. The goal was to demonstrate my understanding of REST APIs, my ability to work with data extraction requirements, and my troubleshooting approach.
 
 ## Steps Performed
 
@@ -24,32 +24,31 @@ This project was completed as part of a Data Source API Analyst Homework for the
 
 2. Research GitHub API:
 
-I used the search copilot on the Github REST API documentation to help me identify the endpoints to cover the client's needs, Requests Logic, Pagination, Rate limits, Error Handling, etc.
+    - Used GitHub’s REST API documentation and Copilot search to identify the correct endpoints and understand request logic, authentication, pagination, rate limits, and error handling..
 
 #### Step 2: Set up a GitHub Repository
 
 1. Create a New Repository
 
 To create this new repository I performed this steps:
-    - Accessed my GitHub account 
-    - Went to New
-    - Set the repository as Public
-    - Created a README.md file and launched
-    - Went to the git bash on my computer and clone the repository using `git clone repository_path`
+    - Accessed my GitHub account and created a new public repository.
+    - Initialized with a README and cloned it locally via Git Bash.
 
 2. Repository Structure
     - Wrote the content of README.md describing my approatch using VS Code
-    - Added new folders as requested (Content, Postman_Collection)
+    - Added folders as instructed:
+        - /Content: for data files and supporting documents
+        - /Postman_Collection: for the Colab notebook
 
 3. Commit Files
-    - Commited the new information on README.md and the folder estructure using VS Code to commit the changes.
+    - Committed the updated README.md and folder structure using VS Code and Git.
 
 #### Step 3: Create a Postman Collection or Google Colab Norebook for API Extraction
 
-1. Set Up Postman or Google Colab
-     - I created a new notebook on Google Colab
-     - Used the endpoints for each request
-     - Included a cell for each API endpoint I was testing
+1. Set Up Google Colab
+     - Created a Colab notebook to write Python code for all API calls. 
+     - Included one cell per API endpoint, handling authentication and response processing.
+
 2. Extract Data Using API
 
 The following CSV files were generated from API responses and can be found in the `/Content` folder:
@@ -60,10 +59,16 @@ The following CSV files were generated from API responses and can be found in th
 
 ## 📓 Notebook
 
-The full Python code for authentication, data extraction, and handling API logic is included in [`Postman_Collection\Github_API_Test.ipynb`](./GitHub_API_test.ipynb). It demonstrates:
+The full Python code for authentication, data extraction, and handling API logic is included in [`Postman_Collection/Github_API_Test.ipynb`](./GitHub_API_test.ipynb). It demonstrates:
 
 - Auth token setup
 - Requesting organization repositories
 - Fetching commit data
 - Listing repo contents
 - Saving responses as CSV
+
+## 💡 Reflections
+
+Although I had used APIs before with R (e.g., TwitterR, Google Maps, Facebook), this was my first time building an API-based data pipeline in Python using the GitHub REST API. It helped solidify my understanding of RESTful principles, response structures, and practical considerations like pagination and rate limits.
+
+This exercise also reinforced the importance of well-structured documentation, reproducible code, and clear output delivery.
