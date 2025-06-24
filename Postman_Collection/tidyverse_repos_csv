@@ -1,0 +1,31 @@
+name,full_name,description,created_at,updated_at,language,stargazers_count,html_url
+ggplot2,tidyverse/ggplot2,An implementation of the Grammar of Graphics in R,2008-05-25T01:21:32Z,2025-06-23T01:31:49Z,R,6711,https://github.com/tidyverse/ggplot2
+lubridate,tidyverse/lubridate,Make working with dates in R just that little bit easier,2009-03-11T01:18:52Z,2025-06-05T12:26:37Z,R,772,https://github.com/tidyverse/lubridate
+stringr,tidyverse/stringr,A fresh approach to string manipulation in R,2009-11-08T22:20:08Z,2025-06-01T01:21:07Z,R,638,https://github.com/tidyverse/stringr
+dplyr,tidyverse/dplyr,dplyr: A grammar of data manipulation,2012-10-28T13:39:17Z,2025-06-21T07:29:38Z,R,4889,https://github.com/tidyverse/dplyr
+readr,tidyverse/readr,"Read flat files (csv, tsv, fwf) into R",2013-07-25T15:28:22Z,2025-06-01T01:21:26Z,R,1015,https://github.com/tidyverse/readr
+magrittr,tidyverse/magrittr,Improve the readability of R code with the pipe,2014-01-01T13:30:01Z,2025-06-23T11:30:25Z,R,962,https://github.com/tidyverse/magrittr
+tidyr,tidyverse/tidyr,Tidy Messy Data,2014-06-10T14:24:33Z,2025-06-22T19:49:44Z,R,1404,https://github.com/tidyverse/tidyr
+nycflights13,tidyverse/nycflights13,An R data package containing all out-bound flights from NYC in 2013 + useful metdata,2014-06-27T16:25:59Z,2025-03-20T11:31:06Z,R,128,https://github.com/tidyverse/nycflights13
+rvest,tidyverse/rvest,Simple web scraping for R,2014-07-23T21:22:27Z,2025-06-10T12:35:17Z,R,1500,https://github.com/tidyverse/rvest
+purrr,tidyverse/purrr,A functional programming toolkit for R,2014-11-29T17:33:40Z,2025-06-22T16:33:21Z,R,1323,https://github.com/tidyverse/purrr
+haven,tidyverse/haven,"Read SPSS, Stata and SAS files from R",2015-02-04T16:28:17Z,2025-06-24T12:58:38Z,C,442,https://github.com/tidyverse/haven
+readxl,tidyverse/readxl,Read excel files (.xls and .xlsx) into R 🖇,2015-03-13T14:50:20Z,2025-06-18T01:12:50Z,C++,739,https://github.com/tidyverse/readxl
+reprex,tidyverse/reprex,"Render bits of R code for sharing, e.g., on GitHub or StackOverflow.",2015-08-25T17:06:45Z,2025-06-20T05:37:26Z,R,745,https://github.com/tidyverse/reprex
+tibble,tidyverse/tibble,A modern re-imagining of the data frame,2015-10-28T23:57:00Z,2025-06-21T02:24:00Z,R,716,https://github.com/tidyverse/tibble
+multidplyr,tidyverse/multidplyr,A dplyr backend that partitions a data frame over multiple processes,2015-11-05T22:55:06Z,2025-04-30T21:34:07Z,R,646,https://github.com/tidyverse/multidplyr
+dtplyr,tidyverse/dtplyr,Data table backend for dplyr,2016-03-07T23:28:16Z,2025-06-13T23:12:31Z,R,673,https://github.com/tidyverse/dtplyr
+hms,tidyverse/hms,A simple class for storing time-of-day values,2016-03-31T09:05:58Z,2025-05-03T05:46:28Z,R,142,https://github.com/tidyverse/hms
+modelr,tidyverse/modelr,Helper functions for modelling,2016-05-06T14:25:25Z,2025-05-19T10:27:25Z,R,401,https://github.com/tidyverse/modelr
+forcats,tidyverse/forcats,🐈🐈🐈🐈: tools for working with categorical variables (factors),2016-08-08T18:07:47Z,2025-06-01T01:21:17Z,R,556,https://github.com/tidyverse/forcats
+tidyverse,tidyverse/tidyverse,Easily install and load packages from the tidyverse,2016-09-06T13:29:39Z,2025-06-19T19:09:45Z,R,1733,https://github.com/tidyverse/tidyverse
+tidytemplate,tidyverse/tidytemplate,A pkgdown template for core tidyverse packages,2016-10-24T19:17:37Z,2025-04-04T04:44:32Z,SCSS,47,https://github.com/tidyverse/tidytemplate
+blob,tidyverse/blob,A simple S3 class for representing BLOBs,2016-10-27T13:11:54Z,2025-05-03T05:44:09Z,R,47,https://github.com/tidyverse/blob
+ggplot2-docs,tidyverse/ggplot2-docs,ggplot2 documentation. Auto-generated from ggplot2 sources by pkgdown,2016-10-31T14:44:38Z,2024-01-19T03:48:44Z,HTML,10,https://github.com/tidyverse/ggplot2-docs
+glue,tidyverse/glue,"Glue strings to data in R. Small, fast, dependency free interpreted string literals.",2016-12-23T21:07:25Z,2025-06-19T18:54:23Z,R,734,https://github.com/tidyverse/glue
+style,tidyverse/style,The tidyverse style guide for R code,2017-03-07T20:15:49Z,2025-06-18T08:34:42Z,SCSS,339,https://github.com/tidyverse/style
+dbplyr,tidyverse/dbplyr,Database (DBI) backend for dplyr,2017-03-28T20:29:16Z,2025-05-16T14:13:01Z,R,484,https://github.com/tidyverse/dbplyr
+googledrive,tidyverse/googledrive,Google Drive R API,2017-04-26T23:22:32Z,2025-04-21T19:31:47Z,R,329,https://github.com/tidyverse/googledrive
+googlesheets4,tidyverse/googlesheets4,Google Spreadsheets R API (reboot of the googlesheets package),2017-04-28T02:03:33Z,2025-06-14T14:32:55Z,R,368,https://github.com/tidyverse/googlesheets4
+tidyverse.org,tidyverse/tidyverse.org,Source of tidyverse.org,2017-07-27T12:34:02Z,2025-06-21T23:54:54Z,HTML,206,https://github.com/tidyverse/tidyverse.org
+datascience-box,tidyverse/datascience-box,Data Science Course in a Box,2017-12-29T22:16:17Z,2025-06-22T11:00:11Z,JavaScript,998,https://github.com/tidyverse/datascience-box

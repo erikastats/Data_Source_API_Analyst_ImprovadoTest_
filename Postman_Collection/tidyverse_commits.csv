@@ -1,0 +1,129 @@
+sha,author,date,message,url
+0231aafbc56914ee5371dd6c7b60677f168d7154,Hadley Wickham,2025-06-18T20:13:42Z,`use_air()` (#358),https://github.com/tidyverse/tidyverse/commit/0231aafbc56914ee5371dd6c7b60677f168d7154
+8ec56d7134ca6d58450151bf42d3f8a9c1a2407b,Hadley Wickham,2025-06-18T17:52:11Z,"Bump requirements to R 4.1 (#357)
+
+And use base pipe + lambda functions",https://github.com/tidyverse/tidyverse/commit/8ec56d7134ca6d58450151bf42d3f8a9c1a2407b
+1c6afa4f6b943480b405f30b9557d4726d776efe,Michael Chirico,2025-06-18T17:26:17Z,Improve organization of .onAttach (#355),https://github.com/tidyverse/tidyverse/commit/1c6afa4f6b943480b405f30b9557d4726d776efe
+c06a3c9938f55cc6f5cab90ae49df7ed7e8e9eb6,Michael Chirico,2024-10-21T21:59:39Z,"Use .lintr to enforce tidyverse style (#337)
+
+Co-authored-by: Hadley Wickham <h.wickham@gmail.com>",https://github.com/tidyverse/tidyverse/commit/c06a3c9938f55cc6f5cab90ae49df7ed7e8e9eb6
+b6bcbcd3432665ba943ec29e2ef188fdfda6b669,Hadley Wickham,2024-10-21T21:42:15Z,Drop modelr (#335),https://github.com/tidyverse/tidyverse/commit/b6bcbcd3432665ba943ec29e2ef188fdfda6b669
+1810ed8c43922fc9c5602cbd5181240201a6852a,jasonO6359,2024-10-21T21:28:27Z,Update manifesto.Rmd - fix spelling typo (#342),https://github.com/tidyverse/tidyverse/commit/1810ed8c43922fc9c5602cbd5181240201a6852a
+3e7f85c9f747acbe5ab172ac098d20d78cb9bb4f,Hadley Wickham,2024-10-21T21:26:52Z,"Upkeep 2024-10 (#348)
+
+* Re-document
+* Move package docs to standard location
+* Re-render readme
+* Update logo/favicons
+* Recommend pak for installation difficulties
+* Update license
+* Require R 4.0.0
+* `usethis::use_tidy_github_actions()`",https://github.com/tidyverse/tidyverse/commit/3e7f85c9f747acbe5ab172ac098d20d78cb9bb4f
+62f32d43e1e0650e4c05632dbfbe06977d1f292f,Hadley Wickham,2023-11-02T14:22:07Z,Drop mockr dep,https://github.com/tidyverse/tidyverse/commit/62f32d43e1e0650e4c05632dbfbe06977d1f292f
+7fc85f0747c31a75d4db5e21b4a757582e6fec72,Hadley Wickham,2023-11-02T14:19:41Z,"Upkeep 2023-11 (#334)
+
+* Rebrand
+* Update logo and favicons
+* `usethis::use_tidy_coc()`
+* Add alt-text. And remove logo that's automatically added by pkgdown
+* Bump required R version
+* `usethis::use_tidy_description()`
+* `usethis::use_tidy_github_actions()`
+* Bump dependencies",https://github.com/tidyverse/tidyverse/commit/7fc85f0747c31a75d4db5e21b4a757582e6fec72
+4e70aa5756d8e8800139f02ddff9356142f23662,Zeki Akyol,2023-10-27T21:03:09Z,"Update r4ds url (#332)
+
+- This pull request updates r4ds(https://r4ds.had.co.nz/) to r4ds 2e (https://r4ds.hadley.nz/).
+- **README.md** is updated by running `devtools::build_readme()`.",https://github.com/tidyverse/tidyverse/commit/4e70aa5756d8e8800139f02ddff9356142f23662
+22caa52a1084fcd6d1f4fb940ccd548ebdcd0117,Tracy Teal,2023-10-27T21:02:52Z,"spring cleaning updates (#324)
+
+* spring cleaning updates
+
+* updating Posit to Posit Software",https://github.com/tidyverse/tidyverse/commit/22caa52a1084fcd6d1f4fb940ccd548ebdcd0117
+8ec2e1ffb739da925952b779925bb806bba8ff99,Hadley Wickham,2023-03-08T21:31:34Z,Add link to latest blog post,https://github.com/tidyverse/tidyverse/commit/8ec2e1ffb739da925952b779925bb806bba8ff99
+37018d1c2cb4828bc2cd75e4430ee05afa09715b,Kirill Müller,2023-03-06T15:48:25Z,Fix typo (#322),https://github.com/tidyverse/tidyverse/commit/37018d1c2cb4828bc2cd75e4430ee05afa09715b
+e4b38891042aeadb684623f9ae3dddc56048edf9,Hadley Wickham,2023-02-23T20:19:20Z,Increment version number to 2.0.0.9000,https://github.com/tidyverse/tidyverse/commit/e4b38891042aeadb684623f9ae3dddc56048edf9
+ce4a7ba700c62bc306e601271076fcfea399c094,Hadley Wickham,2023-02-21T13:20:32Z,Increment version number to 2.0.0,https://github.com/tidyverse/tidyverse/commit/ce4a7ba700c62bc306e601271076fcfea399c094
+d4a33f6ebc89cf246a99922579f904c1e0fadaea,Hadley Wickham,2023-02-15T13:48:33Z,Check revdeps,https://github.com/tidyverse/tidyverse/commit/d4a33f6ebc89cf246a99922579f904c1e0fadaea
+f87bfec9fe13f5cde59cb346359c4708d7211e54,Hadley Wickham,2023-02-14T23:48:52Z,Re-document,https://github.com/tidyverse/tidyverse/commit/f87bfec9fe13f5cde59cb346359c4708d7211e54
+1bac1a896ff3146d38cb6e43d5a8e64316fb71c7,Hadley Wickham,2023-02-14T23:48:26Z,Rebuild readme,https://github.com/tidyverse/tidyverse/commit/1bac1a896ff3146d38cb6e43d5a8e64316fb71c7
+1dabe9bb7783f67a8c157743e89af76cd79be0bb,Hadley Wickham,2023-02-14T23:47:38Z,Fix urls,https://github.com/tidyverse/tidyverse/commit/1dabe9bb7783f67a8c157743e89af76cd79be0bb
+94d282d5cd4d3a7a8daa53d724c395173cf0f607,Hadley Wickham,2023-02-14T23:44:09Z,Polish news,https://github.com/tidyverse/tidyverse/commit/94d282d5cd4d3a7a8daa53d724c395173cf0f607
+859be624df9c5afa7b0ad6886a8df685dc7a6063,Hadley Wickham,2023-02-14T23:32:55Z,Bump dependency versions,https://github.com/tidyverse/tidyverse/commit/859be624df9c5afa7b0ad6886a8df685dc7a6063
+53199b7267ccfe53d04e7b71a9dae5a1137fc961,Hadley Wickham,2023-01-23T13:24:50Z,Update versions,https://github.com/tidyverse/tidyverse/commit/53199b7267ccfe53d04e7b71a9dae5a1137fc961
+aeabcde8c6ae435f16b5173682d5667d292829fb,Hadley Wickham,2022-10-07T13:53:56Z,"Supress hyperlinks
+
+To work around cli buglet",https://github.com/tidyverse/tidyverse/commit/aeabcde8c6ae435f16b5173682d5667d292829fb
+f8d7fa05b6cac640b4c23db2f186f91fb6915a50,Hadley Wickham,2022-10-06T21:40:42Z,More README polishing,https://github.com/tidyverse/tidyverse/commit/f8d7fa05b6cac640b4c23db2f186f91fb6915a50
+5b595e03f4b5eefd46f991e1272f627496e870a6,Hadley Wickham,2022-10-06T21:35:42Z,Switch to auto mode,https://github.com/tidyverse/tidyverse/commit/5b595e03f4b5eefd46f991e1272f627496e870a6
+b75b3645fd9232d5d60c8b97bd3ddbe4872b7f32,Hadley Wickham,2022-10-06T21:35:36Z,Polish readme,https://github.com/tidyverse/tidyverse/commit/b75b3645fd9232d5d60c8b97bd3ddbe4872b7f32
+6d1b28db26e69e791c5fb9d46cc4feae78901ffe,Hadley Wickham,2022-10-06T21:33:41Z,"Mention how to find sysreqs
+
+Fixes #253",https://github.com/tidyverse/tidyverse/commit/6d1b28db26e69e791c5fb9d46cc4feae78901ffe
+53a1843b9555453f440b6b54a4b43e61d8a40f5b,Hadley Wickham,2022-10-06T20:02:03Z,"Advertise conflicted
+
+Fixes #218",https://github.com/tidyverse/tidyverse/commit/53a1843b9555453f440b6b54a4b43e61d8a40f5b
+ce2d67864bdf9397bff6b62ca2038bbe23602722,Hadley Wickham,2022-10-06T18:58:23Z,"Improve sitrep
+
+* Display installed packages
+* Colour dev packages red
+
+Fixes #222",https://github.com/tidyverse/tidyverse/commit/ce2d67864bdf9397bff6b62ca2038bbe23602722
+c32fe00eec0f138cec6cf9aaf1801a942d3bb518,Hadley Wickham,2022-10-06T16:25:10Z,"Switch to cli (#315)
+
+Fixes #311",https://github.com/tidyverse/tidyverse/commit/c32fe00eec0f138cec6cf9aaf1801a942d3bb518
+baf8a22e0e68cb1e3f20983662d3980eae052718,Hadley Wickham,2022-10-06T15:46:25Z,"Add ragg to imports
+
+Fixes #310",https://github.com/tidyverse/tidyverse/commit/baf8a22e0e68cb1e3f20983662d3980eae052718
+b3dd41a813837d971511d93efdb0019f8f4e633a,Hadley Wickham,2022-10-06T15:44:50Z,Fix dtplyr import NOTE,https://github.com/tidyverse/tidyverse/commit/b3dd41a813837d971511d93efdb0019f8f4e633a
+190268309b30f43cd6b9144e0974d0c2296b873a,Hadley Wickham,2022-10-06T15:35:01Z,"Tweak loading message
+
+Fixes #313",https://github.com/tidyverse/tidyverse/commit/190268309b30f43cd6b9144e0974d0c2296b873a
+eb5231d31a013d02b1c797b510c8ef55e22c388c,Hadley Wickham,2022-10-06T15:32:54Z,"Provide better testing infrastructure (#314)
+
+* Simplify library call
+
+* use_tidy_github_actions()
+
+* Supress loading message in tests
+
+* Refactor messaging
+
+* Add some basic snapshot tests
+
+Add testing capability and fixing some bugs along the way",https://github.com/tidyverse/tidyverse/commit/eb5231d31a013d02b1c797b510c8ef55e22c388c
+d8c67fcb236f968bee9d90f1f830ecac992e103c,Hadley Wickham,2022-10-06T14:26:19Z,use_testthat(),https://github.com/tidyverse/tidyverse/commit/d8c67fcb236f968bee9d90f1f830ecac992e103c
+1a3930bf88fb63876f14ec8db084a6b9882078bd,Jacob Scott,2022-10-05T12:26:51Z,Update readme to reflect that {lubridate} is now core (#308),https://github.com/tidyverse/tidyverse/commit/1a3930bf88fb63876f14ec8db084a6b9882078bd
+3be82832a4982d6d10e25e375cedeb8c3161be35,Hadley Wickham,2022-08-12T18:58:07Z,"Add lubridate to the core tidyverse (#306)
+
+Fixes #157",https://github.com/tidyverse/tidyverse/commit/3be82832a4982d6d10e25e375cedeb8c3161be35
+1268aa3373b510ca4e85557a5032d95d5ad04a35,Jennifer (Jenny) Bryan,2022-08-11T16:49:21Z,"Use different approach to ""unused imports"" (#305)
+
+* Use different approach to ""unused imports""
+
+Closes #304
+
+Use the approach that will be recommended in R Packages: https://github.com/hadley/r-pkgs/issues/828
+
+* Update R/tidyverse.R
+
+Co-authored-by: Hadley Wickham <h.wickham@gmail.com>
+
+Co-authored-by: Hadley Wickham <h.wickham@gmail.com>",https://github.com/tidyverse/tidyverse/commit/1268aa3373b510ca4e85557a5032d95d5ad04a35
+8f186a6eff7d76287763e7716b643ce55999aae8,Hadley Wickham,2022-07-18T12:39:43Z,Increment version number to 1.3.2.9000,https://github.com/tidyverse/tidyverse/commit/8f186a6eff7d76287763e7716b643ce55999aae8
+0a34dd45eb556a64027fc1af99c4e8ded52bacd5,Hadley Wickham,2022-07-06T18:52:35Z,"Don't import dtplyr
+
+Since it triggers https://github.com/tidyverse/dtplyr/issues/312.",https://github.com/tidyverse/tidyverse/commit/0a34dd45eb556a64027fc1af99c4e8ded52bacd5
+3ec3ab7bb89d34a0a24674893f80930bd04bb322,Hadley Wickham,2022-07-02T01:33:11Z,Increment version number to 1.3.2,https://github.com/tidyverse/tidyverse/commit/3ec3ab7bb89d34a0a24674893f80930bd04bb322
+7d757d763bff57feb2baa2592a2599d12b82a28d,Hadley Wickham,2022-07-02T01:32:42Z,Check revdeps,https://github.com/tidyverse/tidyverse/commit/7d757d763bff57feb2baa2592a2599d12b82a28d
+461867697e2255dad38d17df8ce1a20e64f832d2,Hadley Wickham,2022-07-01T19:00:14Z,Fix urls,https://github.com/tidyverse/tidyverse/commit/461867697e2255dad38d17df8ce1a20e64f832d2
+a8b433e38c92ea25c08049c43fc0d625a9fa2904,Hadley Wickham,2022-07-01T02:11:29Z,Rebuild readme,https://github.com/tidyverse/tidyverse/commit/a8b433e38c92ea25c08049c43fc0d625a9fa2904
+312c3e176c374780df12f532b95d5e3b18362786,Hadley Wickham,2022-07-01T02:09:18Z,use_tidy_github_actions() (#298),https://github.com/tidyverse/tidyverse/commit/312c3e176c374780df12f532b95d5e3b18362786
+840533ef05772b8ae05162e36f6261128e02f8be,Hadley Wickham,2022-07-01T02:09:08Z,"Allow R to generate text version of citation (#297)
+
+Fixes #269",https://github.com/tidyverse/tidyverse/commit/840533ef05772b8ae05162e36f6261128e02f8be
+cf8890bc06439a3c333e3ff159803962132f206e,Hadley Wickham,2022-07-01T01:38:52Z,Add news bullets,https://github.com/tidyverse/tidyverse/commit/cf8890bc06439a3c333e3ff159803962132f206e
+90eed4923f285a6e2858975d538f01f834a3477d,Hadley Wickham,2022-07-01T01:37:33Z,Remove unneeded crayon reset,https://github.com/tidyverse/tidyverse/commit/90eed4923f285a6e2858975d538f01f834a3477d
+3f3f1e8150c2b3e76e4813830a438111a3903bf0,Hadley Wickham,2022-06-24T20:04:26Z,Update roxygen2 + RStudio,https://github.com/tidyverse/tidyverse/commit/3f3f1e8150c2b3e76e4813830a438111a3903bf0
+e061c06b133ff1e849b650d36d5377319dce4eee,Hadley Wickham,2022-06-24T20:03:34Z,"Use inform() for user messaging (#296)
+
+Fixes #293",https://github.com/tidyverse/tidyverse/commit/e061c06b133ff1e849b650d36d5377319dce4eee
