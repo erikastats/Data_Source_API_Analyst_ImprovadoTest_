@@ -57,3 +57,13 @@ The following CSV files were generated from API responses and can be found in th
 - `tidyverse_repos.csv`: Metadata of all public repositories from the tidyverse organization
 - `tidyverse_commits.csv`: Most recent commits from the `tidyverse/tidyverse` repository
 - `tidyverse_contents.csv`: File structure of the root directory of the `tidyverse/tidyverse` repository
+
+## 📓 Notebook
+
+The full Python code for authentication, data extraction, and handling API logic is included in [`Postman_Collection\Github_API_Test.ipynb`](./GitHub_API_test.ipynb). It demonstrates:
+
+- Auth token setup
+- Requesting organization repositories
+- Fetching commit data
+- Listing repo contents
+- Saving responses as CSV
